@@ -65,5 +65,5 @@
     // "experimentalDecorators": true,        /* Enables experimental support for ES7 decorators. */
     // "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
   },
-  "include": ["lesson/class-work.ts","lesson/example.ts"]
+  "include": ["lesson/class-work.ts","lesson/example.ts","lesson/work.ts"]
 }

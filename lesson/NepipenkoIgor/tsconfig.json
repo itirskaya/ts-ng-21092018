@@ -3,5 +3,5 @@
   "compilerOptions": {
     "strict": false
   },
-  "include": ["./maint.ts"]
+  "include": ["./maint.ts", "lesson/class-work.ts","lesson/example.ts","lesson/work.ts"]
 }
